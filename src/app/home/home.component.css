@@ -1,0 +1,53 @@
+.hello{
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+ 
+}
+img{
+    width:200px;
+    height: 200px;
+}
+.hi{
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+}
+    
+h1{
+    text-align: center;
+    color:rebeccapurple;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: blue;
+}
+.good{
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.header{
+    
+    display:flex;
+    flex-direction:end;
+   
+    justify-content: flex-end;
+    background: aquamarine;
+    
+}
+a{
+    
+    padding: 30px;
+    font-size:20px;
+    text-decoration: none;
+    
+}
+.header img{
+    width:70px;
+    height:100px;
+    text-align: left;
+}
